@@ -1,11 +1,21 @@
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
+  <img src="https://avatars.githubusercontent.com/u/96310119" alt="PolyMC logo"/>
 </p>
 
-MultiMC 5
+PolyMC 5
 =========
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+
+## todo
+- [ ] Get a permanent name + icon.
+- [ ] Style the logo for different icon styles.
+- [ ] Packaging for Linux--Any help packaging for your favorite distro is appreciated!
+- [ ] Packaging for MacOS/Windows
+- [ ] Stop relying on MultiMC-Hosted metadata services
+- [ ] Long-term solution for the MSA client ID issue
+- [ ] Remove references to MultiMC
+- [ ] Figure out a way to switch to GPL.
 
 ## Packages
 Official MultiMC packages are available for Arch Linux and Gentoo Linux. Other distributions/operating systems must download from the [official website](https://multimc.org/#Download).
@@ -51,12 +61,7 @@ In general, in order of importance:
 Translations can be done [on crowdin](https://translate.multimc.org). Please avoid making direct pull requests to the translations repository.
 
 ## Forking/Redistributing/Custom builds policy
-We keep MultiMC open source because we think it's important to be able to see the source code for a project like this, and we do so using the Apache license.
-
-Part of the reason for using the Apache license is that we don't want people using the "MultiMC" name when redistributing the project. This means people must take the time to go through the source code and remove all references to "MultiMC", including but not limited to the project icon and the title of windows, (no *MultiMC-fork* in the title).
-
-Apache covers reasonable use for the name - a mention of the project's origins in the About dialog and the license is acceptable. However, it should be abundantly clear that the project is a fork *without* implying that you have our blessing.
-
+Do whatever you want, we don't care.
 
 ## License
 Copyright &copy; 2013-2021 MultiMC Contributors
