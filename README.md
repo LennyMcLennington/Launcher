@@ -7,6 +7,20 @@ PolyMC 5
 
 PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
+## Disclaimers
+
+This is a **fork** of [MultiMC](https://github.com/MultiMC/Launcher). The original maintainer has been awfully hostile to other people packaging MultiMC, and has taken an anti-user approach. Therefore, this project was made to allow anyone to distribute this as they please, without any obstructions from copyright or nonfree licenses like Apache. Additionally, this allows for full-system installs, building from source (and you will be allowed support for your own builds), and for any redistribution you like--packages, binaries, whatever.
+
+We simply do not agree with Peterix's attitude, and believe the source code should be provided not only for contribution purposes, but **for the user's freedom.** Peterix has been heavily against this and we believe that no program is truly "open source" if it is not Free Software. Peterix only open-sourced MultiMC because he wanted free code contributions. To quote him:
+
+> The source is only provided for the purpose of collaboration.
+
+<img src="https://file.swurl.xyz/10a15c9a57712f18/peterix1.png" alt="Peterix's anti-AUR attitude">
+
+<img src="https://file.swurl.xyz/042da993b70eefd1/peterix2.png" alt="Build fingerprinting to prevent anyone from using other methods of packaging.">
+
+This project is **not** endorsed by MultiMC. Peterix does not like anyone forking, let alone people forking for the purpose of user freedom, and has previously stated he disapproves of this fork.
+
 ## todo
 - [ ] Get a permanent name + icon.
 - [ ] Style the logo for different icon styles.
